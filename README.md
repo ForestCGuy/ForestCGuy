@@ -1,4 +1,5 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ForestCGuy.ForestCGuy)
+
  
 - 👋 Hi, I’m Naveen  
   &nbsp;&nbsp;&nbsp;&nbsp;I'm a PhD student at Forest Research Institute (IRF), UQAT, working on modeling carbon dynamics in the Clay Belt region. I am passionate about understanding complex environmental systems and developing solutions for sustainable management.  
