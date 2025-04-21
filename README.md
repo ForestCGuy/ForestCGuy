@@ -1,16 +1,26 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ForestCGuy.ForestCGuy)
 
  
-- 👋 Hi, I’m Naveen  
-  &nbsp;&nbsp;&nbsp;&nbsp;I'm a PhD student at Forest Research Institute (IRF), UQAT, working on modeling carbon dynamics in the Clay Belt region. I am passionate about understanding complex environmental systems and developing solutions for sustainable management.  
+# 👋 Hi there, I’m Naveen!
 
-- 👀 I’m interested in Carbon Forestry, Spatial Ecology, and Forest Management.  
+🎓 I’m a PhD student at the Forest Research Institute (IRF), UQAT, focusing on modeling carbon dynamics in the Clay Belt region of Canada. My work aims to unravel the complexities of forest ecosystems and develop data-driven solutions for carbon balance and sustainable forest management.
 
-- 🌱 I’m currently learning Carbon dynamics modeling using Landis-II and CBM-CFS3/GCBM.  
+## 🔍 Research Interests
+- 🌳 Carbon Forestry & Ecosystem Modeling  
+- 🌍 Spatial Ecology & Remote Sensing  
+- 🌲 Forest Management & Policy Applications  
 
-- 📫 Get in Touch  
-  &nbsp;&nbsp;&nbsp;&nbsp;**Email**: vern06@uqat.ca / naveenv.uqat@gmail.com  
-  &nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**: [Naveen Veerabhadraswamy](https://www.linkedin.com/in/naveen-veerabhadraswamy/)
+## 🧠 Currently Learning
+- 🔬 Forest Carbon Dynamics Modeling using:
+  - LANDIS-II  
+  - CBM-CFS3 / GCBM  
+
+## 📫 Let’s Connect
+- 📧 **Email**: [naveenv.uqat@gmail.com](mailto:naveenv.uqat@gmail.com)  
+- 🔗 **LinkedIn**: [Naveen Verabhadraswamy](https://www.linkedin.com/in/naveen-veerabhadraswamy/)
+
+---
+
  
 
 <!---
