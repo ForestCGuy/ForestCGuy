@@ -12,8 +12,8 @@
 
 ## 🧠 Currently Learning
 - 🔬 Forest Carbon Dynamics Modeling using:
-  - LANDIS-II  
-  - CBM-CFS3 / GCBM  
+    - LANDIS-II
+    - CBM-CFS3 / GCBM
 
 ## 📫 Let’s Connect
 - 📧 **Email**: [naveenv.uqat@gmail.com](mailto:naveenv.uqat@gmail.com)  
@@ -23,7 +23,7 @@
 
  
 
-<!---
+<!--
 ForestCGuy/ForestCGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
